@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sasikalaarunraj
+- 👋 Hi, I’m @sasikala
 - 👀 I’m interested in full stack developement
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on 
